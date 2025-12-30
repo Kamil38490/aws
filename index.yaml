@@ -1,34 +1,45 @@
 apiVersion: v1
 entries:
+  serwer-www:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-30T09:43:39.347014738+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 3806a503c4a32a3698eb75a022a7546745d47678e7aba5a249cc4125fe40e6ea
+    name: serwer-www
+    type: application
+    urls:
+    - serwer-www-0.1.6.tgz
+    version: 0.1.6
   serwer_www:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T10:15:57.817980537+01:00"
+    created: "2025-12-30T09:43:39.348097387+01:00"
     description: A Helm chart for Kubernetes
     digest: fb502e064008d0395207ee2c2169cdc558b551445753c602f8835272b9d9d6a4
     name: serwer_www
     type: application
     urls:
-    - https://Kamil38490.github.io/aws/serwer_www-0.1.2.tgz
+    - serwer_www-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T10:15:57.817635718+01:00"
+    created: "2025-12-30T09:43:39.347744899+01:00"
     description: A Helm chart for Kubernetes
     digest: 7f8ea9e85a1b16345999b8b29b03fd57b7aa9e747fd3a27f8ea8957447056fa6
     name: serwer_www
     type: application
     urls:
-    - https://Kamil38490.github.io/aws/serwer_www-0.1.1.tgz
+    - serwer_www-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T10:15:57.817215936+01:00"
+    created: "2025-12-30T09:43:39.347341537+01:00"
     description: A Helm chart for Kubernetes
     digest: cdbd9c72af1f5680c8e8d159f6912f92aee13ec9bef43cdd9e754fadd011a6a9
     name: serwer_www
     type: application
     urls:
-    - https://Kamil38490.github.io/aws/serwer_www-0.1.0.tgz
+    - serwer_www-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-29T10:15:57.816772998+01:00"
+generated: "2025-12-30T09:43:39.346407014+01:00"
